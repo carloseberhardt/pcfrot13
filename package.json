@@ -1,0 +1,22 @@
+{
+  "name": "rot13",
+  "version": "1.0.0",
+  "description": "rot13",
+  "main": "server.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "author": "@carloseberhardt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
